@@ -4,8 +4,8 @@ I'm a interested in programming in C#, JS. Nothing special, a lot of shit code, 
 
 ## 🐧 Favorite OS 
 
-[![Debian](https://img.shields.io/badge/Debian_13-DD88A0?style=for-the-badge&logo=debian&logoColor=black)](https://www.debian.org/)
 [![Windows 11](https://img.shields.io/badge/Windows_11-A6D4FF?style=for-the-badge&logo=windows11&logoColor=black)](https://www.microsoft.com/windows/windows-11)
+[![Debian](https://img.shields.io/badge/Debian_13-DD88A0?style=for-the-badge&logo=debian&logoColor=black)](https://www.debian.org/)
 
 ## 🪴 Technologies I use
 
