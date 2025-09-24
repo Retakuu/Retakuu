@@ -31,7 +31,7 @@ I'm a interested in programming in C#, JS. Nothing special, a lot of shit code, 
 ![Header](/img/header.gif)
 
 ### 🚀 Currently developing
-<a href="#" target="_blank" rel="noopener noreferrer" alt="Soon">Soon</a> (AAA)<br>
+<a href="https://github.com/Retakuu/Miunix" target="_blank" rel="noopener noreferrer" alt="Miunix">Miunix</a> (Operating system simulation)<br>
 
 ### 📌 My configuration files
 <a href="#" target="_blank" rel="noopener noreferrer" alt="VScode-Settings">VScode-Settings</a> (My VScode settings, snippets, bindings)<br>
